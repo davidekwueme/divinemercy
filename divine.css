@@ -1,0 +1,69 @@
+nav.main-nav ul{
+    width: 1300px;
+    margin: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    list-style-type: more;
+    padding: 0px;
+    text-align: center;
+    color:blue;
+    font-size:1rem;
+    background-color:white;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background:url("school \website/TEACHERS\ \(3\).jpg");
+    background-size: cover;
+    background-repeat: none;
+  }
+  div{
+    padding-top: 50px;
+    width:98%;
+    height: 100vh;
+    margin: 20px;
+    border:0px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:black;
+  }
+  header{
+    padding-top:20px; 
+    background-color:blue;
+    width:1345px;
+    text-align: center;
+  }
+  h1{
+    color:white;
+    font-size: 2rem;
+    font-style: bold;
+    font-weight: 400;
+    margin: 5px;
+    padding: 10px;
+  }
+  h3{
+    color:white;
+    font-size: 2rem;
+    font-style: italic;
+  }
+  footer{
+    text-align:center;
+    padding: 20px;
+    border-top: 1px solid green;
+    border-radius: 2px;
+    border-bottom: 10px;
+    background-color:blue; 
+}
+  span{
+    font-size:2rem;
+    font-style:italic;
+    width:33%;
+    margin-left,margin-right:auto;
+    display:inline-block;
+    text-align:center;
+    color:white;
+    }
+
+  
